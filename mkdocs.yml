@@ -1,0 +1,8 @@
+site_name: Tru-fabric
+nav:
+  - Home: index.md
+  - Scope: scope.md
+  - Modules: modules.md
+  - Process details: pd.md
+  - Technology: tech.md
+theme: readthedocs
